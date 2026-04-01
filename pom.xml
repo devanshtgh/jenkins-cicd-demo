@@ -4,9 +4,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mycompany</groupId>
+	<groupId>272b8df3-f718-42a2-804e-875ab4259c93</groupId>
 	<artifactId>jenkins-demo-app</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
 	<name>jenkins-demo-app</name>
@@ -39,7 +39,7 @@
 						<target>Cloudhub-US-East-2</target>
 						<muleVersion>4.9.0</muleVersion>
 						<server>ca.anypoint.credentials</server>
-						<applicationName>cicd-demo-app</applicationName>
+						<applicationName>jenkins-demo-app</applicationName>
 						<replicas>1</replicas>
 						<vCores>0.1</vCores>
 						<skipDeploymentVerification>${skipDeploymentVerification}</skipDeploymentVerification>
