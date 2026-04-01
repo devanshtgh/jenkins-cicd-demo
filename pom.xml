@@ -6,7 +6,7 @@
 
 	<groupId>272b8df3-f718-42a2-804e-875ab4259c93</groupId>
 	<artifactId>jenkins-demo-app</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<packaging>mule-application</packaging>
 
 	<name>jenkins-demo-app</name>
